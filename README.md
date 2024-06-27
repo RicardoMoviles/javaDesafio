@@ -1,3 +1,4 @@
+Por supuesto, aquí tienes una versión actualizada del README que incluye la información sobre el curso de Alura Latam:
 Aplicación Bancaria en Java
 
 Esta es una aplicación simple de consola en Java que simula las operaciones básicas de una cuenta bancaria.
@@ -13,6 +14,10 @@ Detalles del Cliente
     Nombre del Cliente: Tony Stark
     Tipo de Cuenta: Corriente
     Saldo Disponible: $1599.99
+
+Curso
+
+Este proyecto es un ejercicio práctico del curso "Java: creando tu primera aplicación" de la plataforma Alura Latam.
 
 Instrucciones de Uso
 
